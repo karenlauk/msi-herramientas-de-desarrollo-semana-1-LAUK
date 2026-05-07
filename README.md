@@ -1,2 +1,1 @@
-# metodolog-a
-2do año - 1er cuatrimestre
+# metodologia / 2do año - 1er cuatrimestre
