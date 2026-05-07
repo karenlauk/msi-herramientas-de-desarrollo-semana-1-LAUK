@@ -1,1 +1,1 @@
-# Mi primer repositorio para Metodologíaa / 2do año - 1er cuatrimestre
+# Mi primer repositorio para Metodología / 2do año - 1er cuatrimestre
